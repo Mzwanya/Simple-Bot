@@ -20,7 +20,7 @@ This is a simple interactive Python bot named **Xpo**, created in **May 2024** b
 ### Example:
 
 ```
-python xpo_bot.py
+python SimpleBot.py
 ```
 
 3. Follow the prompts to interact with the bot.
@@ -50,5 +50,5 @@ This repository is still under construction. Feel free to contribute to this pro
 
 ## Author
 
-- **Dennis M. Kaunda**: [Dennis Kaunda](https://github.com/dennismkaunda) - Creator at Xpo.
+- [Dennis Kaunda](https://github.com/dennismkaunda) - Creator at Xpo.
 
