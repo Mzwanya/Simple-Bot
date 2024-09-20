@@ -1,0 +1,24 @@
+# Python bytecode files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+env/
+.env/
+
+# IDE/editor directories
+.vscode/
+.idea/
+
+# Log files
+*.log
+
+# Dependency files
+Pipfile.lock
+
+# Miscellaneous
+.DS_Store
+.coverage
