@@ -81,7 +81,7 @@ def test():
     print('Correct!')
 
 def end():
-    print('Congratulations! Have a nice day!')
+    print('Thank you for your time! Have a nice day!')
 
 def interact():
     greet('Xpo', 'May 2024', 'Dennis the ChiefEngineer')
