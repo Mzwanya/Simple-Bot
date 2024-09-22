@@ -1,6 +1,6 @@
-# Python Bot - Xpo
+# Simple-Bot
 
-This is a simple interactive Python bot named **Xpo**, created in **May 2024** by Dennis Kaunda. The bot can greet users, guess their age, test their programming knowledge, and perform counting tasks. It also includes features like personalized greetings based on the time of day, error handling, and randomized test questions.
+This is a simple interactive bot named Xpo. The bot can greet users, guess their age, test their programming knowledge, and perform counting tasks. It also includes features like personalized greetings based on the time of day, error handling, and randomized test questions.
 
 ## Features
 
@@ -50,5 +50,5 @@ This repository is still under construction. Feel free to contribute to this pro
 
 ## Author
 
-- [Dennis Kaunda](https://github.com/dennismkaunda) - Creator at Xpo.
+- [dennismkaunda](https://github.com/dennismkaunda) - Creator.
 
