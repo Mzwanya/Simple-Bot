@@ -22,3 +22,14 @@ Pipfile.lock
 # Miscellaneous
 .DS_Store
 .coverage
+
+# Build artifacts
+dist/
+build/
+
+# Temporary files
+*.tmp
+
+# Windows OS files
+Thumbs.db
+desktop.ini
