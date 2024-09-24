@@ -50,5 +50,5 @@ This repository is still under construction. Feel free to contribute to this pro
 
 ## Author
 
-- [https://github.com/dennismkaunda](https://github.com/dennismkaunda) - Creator.
+- [https://github.com/Yazest](https://github.com/Yazest) - Creator.
 
