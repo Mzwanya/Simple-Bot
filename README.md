@@ -36,7 +36,7 @@ python SimpleBot.py
 
 ## Requirements
 
-- Python 3.x
+- Python 3.6 or later.
 
 ## Future Improvements
 
@@ -50,5 +50,5 @@ This repository is still under construction. Feel free to contribute to this pro
 
 ## Author
 
-- [https://github.com/Yazest](https://github.com/Yazest) - Creator.
+- [https://github.com/Mzwanya](https://github.com/Mzwanya) - Creator.
 
