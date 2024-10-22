@@ -46,9 +46,10 @@ python SimpleBot.py
 
 ## Contributing
 
-This repository is still under construction. Feel free to contribute to this project by submitting pull requests or reporting issues. Contributions are welcome to make the bot more powerful and engaging.
+This repository is still under construction. But it is not open for contributions.
+
 
 ## Author
 
-- [https://github.com/Mzwanya](https://github.com/Mzwanya) - Creator.
+- [dennismkaunda](https://github.com/dennismkaunda) - Creator.
 
